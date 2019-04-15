@@ -23,7 +23,7 @@ p {
 </style>
 
 
-  
+
   
 
 ## 您的支持是作者写作最大的动力
@@ -40,16 +40,12 @@ p {
 
 |您可以选择手机支付宝扫一扫 | 您也可以选择手机微信扫一扫|
 |:---------:|:-------:|:----------------:|
-| ![支付宝转账二维码](/assets/imgs/ali_pay.png) | ![微信转账二维码](/assets/imgs/wechat_pay.png)| 
+| ![支付宝转账二维码](/assets/imgs/ali_pay.png) | ![微信转账二维码](/assets/imgs/wechat_pay.png)|
 
 ---
-当然地主家也可能没有余粮，您可以关注我的微信公众号：oukohou，也不失为一种赞助： | 
+当然地主家也可能没有余粮，您可以关注我的微信公众号：(暂无)，也不失为一种赞助： | 
 
-![微信公众号](/assets/imgs/wechat_official_account.png)              
-
----
-又当然，您也可以三种方式随意组合进行赞助，一共有<img src="http://chart.googleapis.com/chart?cht=tx&chl=\Large sum(C_3^1, C_3^2, C_3^3) = 7" style="border:none;">种方式供您选择。
-有钱就是这么任性！
+ 
 
 
 ## 鸣谢大佬：  

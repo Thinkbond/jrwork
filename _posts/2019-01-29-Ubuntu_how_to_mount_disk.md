@@ -14,7 +14,7 @@ tags: [ubuntu, 挂载硬盘, 命令]
 然后申请了个新的2T机械硬盘，麻溜装到机箱里，然后挂载(mount)的时候犯了难：  
 `两个同样属性的机械硬盘，到底哪个是我新加的？这要是万一格式化格错了，岂不是万劫不复？`  
 ![same_disk](https://s1.ax2x.com/2019/01/29/5j89oe.png)  
-  
+
 
 不敢妄动。  
 所幸搜索到了这篇[博客](https://blog.csdn.net/wshixinshouaaa/article/details/81275608), 才发现原来有个图形化工具Disks，
@@ -46,7 +46,7 @@ sudo vim /etc/fstab
 将下面这一行添加到最后一行：  
 ```bash
 UUID=d8df29bb-52ab-47c6-beba-a6f06fb576fe home/CVAR-B    ext4    defaults        0       0
-```  
+```
 
 然后重启电脑，查看，即可在目录 `/home`下看到刚刚挂载的硬盘对应的文件夹：  
 ![generated_dir](https://s1.ax2x.com/2019/01/29/5j83pO.png)  
@@ -62,8 +62,8 @@ UUID=d8df29bb-52ab-47c6-beba-a6f06fb576fe home/CVAR-B    ext4    defaults       
 
 
 <br>
-微信公众号：璇珠杂俎(也可搜索[oukohou](https://mp.weixin.qq.com/s/dCxGcuv5ngyR6U-uBYVI9Q))，提供本站优质非技术博文～～
-[![wechat_official_account](https://www.oukohou.wang/assets/imgs/wechat_official_account.png)](https://mp.weixin.qq.com/s/dCxGcuv5ngyR6U-uBYVI9Q "点击图像直达微信公众号～～")  
+微信公众号：「暂无」(也可搜索[暂无](https://mp.weixin.qq.com/))，提供本站优质非技术博文～～
+[暂无](https://mp.weixin.qq.com/s/dCxGcuv5ngyR6U-uBYVI9Q "点击图像直达微信公众号～～")  
 
 
 
@@ -71,8 +71,8 @@ UUID=d8df29bb-52ab-47c6-beba-a6f06fb576fe home/CVAR-B    ext4    defaults       
 <br>
 <p  align="right">regards.</p>
 <h4 align="right">
-    <a href="https://www.oukohou.wang/">
-        oukohou.
+    <a href="https://www.jrwork.cn/">
+        Thomas Teng.
     </a>
 </h4>
 
