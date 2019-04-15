@@ -7,19 +7,18 @@ categories: [日志]
 ---
 Hello there!
 
-This is my first blog on my blog [site](http://www.oukohou.wang/).
+This is my first blog on my blog [site](http://www.jrwork.cn/).
 
 That's all.
-
 
 
 
 {% highlight python %}
 def print_hi(name):
    print("Hi, " + name)
-print_hi("I'm oukohou")
+print_hi("I'm Thomas Teng")
 {% endhighlight %}
 
 regards.
-<h4 align = "right">oukohou.</h4>
+<h4 align = "right">Thomas Teng.</h4>
 
