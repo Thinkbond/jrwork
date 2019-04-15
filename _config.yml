@@ -1,14 +1,14 @@
 # Site settings
-title: oukohou
-subtitle: [ 璇珠杂俎]
-keywords: oukohou
-description: 我梦扬州，便想到扬州梦我。幸会。微信公众号：oukohou.
+title: jrwork
+subtitle: [ 匠人志]
+keywords: jrwork
+description: 我………………………………。微信公众号：XXXXX.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.oukohou.wang/" # 你的域名
-page_no_title: "oukohou's blog" # 文章无标题时默认显示内容
+url: "https://jrwork.cn/" # 你的域名
+page_no_title: "Thomas Teng's blog" # 文章无标题时默认显示内容
 beian: # "备案号"
-author: oukohou
-email: oukohou@outlook.com
+author: Thomas Teng
+email: xbteng@outlook.com
 
 # Build settings
 permalink: /:year/:month/:day/:title/
@@ -60,29 +60,16 @@ links: # 友情链接
 
   - title: ccslience's blog
     url: http://ccslience.oukohou.wang/
-  - title: oukohou's github
-    url: https://github.com/oukohou
 #  - title:
 #    url: http://jekyllcn.com/
   - title: Jekyll blog system
     url: http://jekyllcn.com/
 
 
-# Google Analytics
-ga_track_id: 'UA-130856615-1'            # Format: UA-xxxxxx-xx
-ga_domain: www.oukohou.wang              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
-
-
-# Code hub settings
-codehub: # 代码仓库
-  - title: Github
-    url: https://github.com/oukohou
-
-
 valine:
   enable: true
-  app_id:  K1rbn2Oo0YMM04VuzdLS7Nzz-gzGzoHsz
-  app_key: AAsHbwVm8ofKFJ6ghGqqrXSU
+  app_id:  NihcR9g1oYP0RyK0vwwYPoLt-gzGzoHsz
+  app_key: GyA3LepxcjrEKlXXUipLL6oz
   notify: false # mail notifier , https://github.com/xCss/Valine/wiki
   verify: false # Verification code
   visitor: true
