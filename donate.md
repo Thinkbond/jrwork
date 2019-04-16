@@ -45,7 +45,7 @@ p {
 ---
 您可以关注我的微信公众号：**匠人造物**，也不失为一种鼓励！
 
- [微信公众号](/assets/imgs/wechat_official_account.png)
+![微信公众号](../../../../assets/imgs/wechat_official_account.png) 
 
 
 ## 鸣谢：  
