@@ -45,9 +45,6 @@ menu:
   - page: 标签
     directory: tags/
     icon: icon-tags
-  - page: 留言
-    directory: guestbook/
-    icon: icon-guestbook
   - page: 关于
     directory: about/
     icon: icon-about
