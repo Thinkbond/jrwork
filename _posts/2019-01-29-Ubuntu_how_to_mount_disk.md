@@ -8,8 +8,7 @@ tags: [ubuntu, 挂载硬盘, 命令]
 
 
 
-用的台式机虽然本身已经是256G固态+2T机械硬盘了，然而每天与海量数据打交道的我，还是迅速用的只剩下了100G不到：  
-![not_many_space](https://s1.ax2x.com/2019/01/30/5j80pl.jpg)    
+用的台式机虽然本身已经是256G固态+2T机械硬盘了，然而每天与海量数据打交道的我，还是迅速用的只剩下了100G不到：      
 
 然后申请了个新的2T机械硬盘，麻溜装到机箱里，然后挂载(mount)的时候犯了难：  
 `两个同样属性的机械硬盘，到底哪个是我新加的？这要是万一格式化格错了，岂不是万劫不复？`  
@@ -71,8 +70,8 @@ UUID=d8df29bb-52ab-47c6-beba-a6f06fb576fe home/CVAR-B    ext4    defaults       
 <br>
 <p  align="right">regards.</p>
 <h4 align="right">
-    <a href="https://www.jrwork.cn/">
-        Thomas Teng.
+    <a href="https://www.jrwork.cn/">Thomas Teng
     </a>
 </h4>
+
 
