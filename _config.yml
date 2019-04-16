@@ -1,8 +1,8 @@
 # Site settings
-title: 匠人志
-subtitle: [ 匠人志]
+title: 匠人造物
+subtitle: [ 匠人造物]
 keywords: jrwork
-description: 我………………………………。微信公众号：XXXXX.
+description: 我………………………………。微信公众号：匠人造物.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jrwork.cn/" # 你的域名
 page_no_title: "Thomas Teng's blog" # 文章无标题时默认显示内容
