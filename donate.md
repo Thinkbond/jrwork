@@ -43,12 +43,12 @@ p {
 | ![支付宝转账二维码](/assets/imgs/ali_pay.png) | ![微信转账二维码](/assets/imgs/wechat_pay.png)|
 
 ---
-当然地主家也可能没有余粮，您可以关注我的微信公众号：(暂无)，也不失为一种赞助： | 
+您可以关注我的微信公众号：**匠人造物**，也不失为一种鼓励！
 
- 
+ [微信公众号](/assets/imgs/wechat_official_account.png)
 
 
-## 鸣谢大佬：  
+## 鸣谢：  
 
 |昵称     | 金额| 途径   |时间            |备注|致谢
 |:------:|:-------:|:----------------: |:---:|:---:|:---:
@@ -58,4 +58,4 @@ p {
 <br />
 
 ---
-> 声明: 此博客用于分享作者个人的一些技术总结，以及记录生活中的所感所想所思。除特殊说明外，本站文章均采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"> 知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议 </a>进行许可。
+> 声明: 本博客用于分享作者个人「原创」内容，若配图或引用内容不慎冒犯到您的合法权益，请您[联系我](mailto:xbteng@outlook.com)，谢谢！除特殊说明外，本站文章均采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"> 知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议 </a>进行许可。
