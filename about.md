@@ -10,6 +10,20 @@ group: "navigation"
 
 我会将个人学习成长过程的感悟、体会记录在这里。感谢网站[模板作者](http://www.oukohou.wang)！
 
+#### 社交账号
+
+| 平台       | 账号                                                 | 备注                                                    |
+| ---------- | ---------------------------------------------------- | ------------------------------------------------------- |
+| 知乎       | [Thinkbond](https://www.zhihu.com/people/thinkbond/) | 知乎专栏：[匠人造物](https://zhuanlan.zhihu.com/jrwork) |
+| 微博       | [匠人造物](https://weibo.com/thinkbond)              | 记录生活成长点滴，碎片信息                              |
+| 微信公众号 | 匠人造物（jrworkcn）                                 |                                                         |
+
+<img src="../assets/imgs/wechat_official_account.png"
+
+​         width="80%"
+
+​         alt="匠人造物"/>
+
 #### 关于我
 
 **Q1：介绍你自己。**
