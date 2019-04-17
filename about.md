@@ -18,7 +18,7 @@ group: "navigation"
 | 微博       | [匠人造物](https://weibo.com/thinkbond)              | 记录生活成长点滴，碎片信息                              |
 | 微信公众号 | 匠人造物（jrworkcn）                                 | 请打开微信扫下图二维码                                  |
 
-![wechat_official_account](../assets/imgs/wechat_official_account.png)     
+<img src="../assets/imgs/wechat_official_account.png" width="600px" />
 
 #### 关于我
 
