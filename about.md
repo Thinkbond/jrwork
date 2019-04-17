@@ -72,12 +72,3 @@ group: "navigation"
 - [Typora](https://typora.io)（Windows）：没错，就是刚刚介绍的 macOS 平台下的写作工具，它也有 Windows 版和 Linux 版。
 
 THE END.
-
-### 联系我
-
-我的邮箱：xbteng(at)outlook.com  
-新浪微博: [匠人造物][weibo]，碎片信息  
-知乎：[thinkbond][知乎]，问答与文章
-
-[weibo]: https://weibo.com/thinkbond
-[知乎]: https://www.zhihu.com/people/thinkbond
