@@ -55,8 +55,6 @@ menu:
 # Link settings
 links: # 友情链接
 
-  - title: ccslience's blog
-    url: http://ccslience.oukohou.wang/
 #  - title:
 #    url: http://jekyllcn.com/
   - title: Jekyll blog system
