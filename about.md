@@ -16,13 +16,9 @@ group: "navigation"
 | ---------- | ---------------------------------------------------- | ------------------------------------------------------- |
 | 知乎       | [Thinkbond](https://www.zhihu.com/people/thinkbond/) | 知乎专栏：[匠人造物](https://zhuanlan.zhihu.com/jrwork) |
 | 微博       | [匠人造物](https://weibo.com/thinkbond)              | 记录生活成长点滴，碎片信息                              |
-| 微信公众号 | 匠人造物（jrworkcn）                                 |                                                         |
+| 微信公众号 | 匠人造物（jrworkcn）                                 | 请打开微信扫下图二维码                                  |
 
-<img src="../assets/imgs/wechat_official_account.png"
-
-​         width="80%"
-
-​         alt="匠人造物"/>
+![wechat_official_account](../assets/imgs/wechat_official_account.png)     
 
 #### 关于我
 
