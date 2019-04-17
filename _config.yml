@@ -70,5 +70,5 @@ valine:
   visitor: true
   avatar: retro
   placeholder: Be nice～ 
-  guest_info: nick,mail
+  guest_info: nick,mail,link
   pageSize: 10
