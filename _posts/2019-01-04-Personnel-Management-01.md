@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  个人管理-01-基础篇
-tags:   个人管理,心智模式
+tags:   个人管理 心智模式
 date:   2019-01-04 19:42:35 +0800
 categories: [个人管理] 
 ---
