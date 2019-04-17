@@ -19,7 +19,7 @@ categories: [个人管理]
 
 自2014年起，我逐渐养成了一套简单的阅读流程：将获取到的阅读素材按照既定的分类方式标记并放入暂存区，根据需要随时调取阅读，然后经过大脑的加工，形成以知识树为框架、关联的知识点为枝叶的内容，同时将阅读后的素材作归档处理。
 
-![5b7f991057ab016dba76e68800aefc1b.png](../../../Library/Mobile%20Documents/com~apple~CloudDocs/Typora/%E4%B8%AA%E4%BA%BA%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F-03%20%E5%AD%A6%E4%BC%9A%E9%98%85%E8%AF%BB.assets/5b7f991057ab016dba76e68800aefc1b.png)
+![5b7f991057ab016dba76e68800aefc1b.png](https://ws4.sinaimg.cn/large/006tNc79ly1g25zhrgt9rj30yg0rje81.jpg)
 
 阅读素材的管理流程：素材获取→分类标记存储→调用阅读→归档
 
@@ -43,17 +43,17 @@ categories: [个人管理]
 
 对于书籍类素材，根据之前设定好的规则（本文只摘出阅读相关部分），暂存入对应的库中。 分类标准如下：
 
-![692-5a84ecad7fcde40b.png](../../../Library/Mobile%20Documents/com~apple~CloudDocs/Typora/%E4%B8%AA%E4%BA%BA%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F-03%20%E5%AD%A6%E4%BC%9A%E9%98%85%E8%AF%BB.assets/692-5a84ecad7fcde40b.png)
+![692-5a84ecad7fcde40b.png](https://ws2.sinaimg.cn/large/006tNc79ly1g25zhyz2vyj30ls0s67gh.jpg)
 
 书籍分类
 
 其中，“类别”对应文件夹命名，“书名·作者·发行年份”对应文件名，如傲慢与偏见·简奥斯汀·1813.mobi。关于快速命名方法，如果你日常使用 macOS ，推荐使用 [atext](http://www.trankynam.com/atext/) 并提前预置好命名规则，如下图所示：
 
-![Pasted Graphic.png](../../../Library/Mobile%20Documents/com~apple~CloudDocs/Typora/%E4%B8%AA%E4%BA%BA%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F-03%20%E5%AD%A6%E4%BC%9A%E9%98%85%E8%AF%BB.assets/Pasted%20Graphic.png)
+![Pasted Graphic.png](https://ws4.sinaimg.cn/large/006tNc79ly1g25zi39uzoj31330u01fs.jpg)
 
 这样，当你整理电子版材料时，直接输入快捷键 .bfn 即可快速设置文件名。
 
-![Pasted Graphic 1.png](../../../Library/Mobile%20Documents/com~apple~CloudDocs/Typora/%E4%B8%AA%E4%BA%BA%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F-03%20%E5%AD%A6%E4%BC%9A%E9%98%85%E8%AF%BB.assets/Pasted%20Graphic%201.png)
+![Pasted Graphic 1.png](https://ws3.sinaimg.cn/large/006tNc79ly1g25zi7e223j30uk0nwtbq.jpg)
 
 非书籍类的资源，通过相应的 app 来管理：RSS 用 Reeder，可以多平台同步阅读进度。而平时获取的好的网页内容则通过收集到 [Pocket](https://getpocket.com/) 中稍后阅读。播客资源用 iTunes 同步管理。
 
@@ -103,7 +103,7 @@ Mobi/awz3 → Kindle
 
 无论《如何阅读一本书》中的基础阅读、检视阅读（泛读）、分析阅读（精读）、主题阅读法，还是拆书帮便签式读书法，都是非常好的阅读方法，在此不再赘述，请阅读原著。在这里只谈一下个人对阅读的理解：
 
-![57e58e4f492f51ef41dc55a3d53f59d3.png](../../../Library/Mobile%20Documents/com~apple~CloudDocs/Typora/%E4%B8%AA%E4%BA%BA%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F-03%20%E5%AD%A6%E4%BC%9A%E9%98%85%E8%AF%BB.assets/57e58e4f492f51ef41dc55a3d53f59d3.png)
+![57e58e4f492f51ef41dc55a3d53f59d3.png](https://ws2.sinaimg.cn/large/006tNc79ly1g25zibklnwj30yg0k4h86.jpg)
 
 阅读方法的选择
 
@@ -148,13 +148,13 @@ Mobi/awz3 → Kindle
 
 阅读过程中，随时标记/提炼关键词，并将它们录入到 Mindnode、ithoughtx、xmind、Scapple或Freemind 等思维导图类软件中。
 
-![c7d1f1d614100ccdd4e03137d8f046d6.png](../../../Library/Mobile%20Documents/com~apple~CloudDocs/Typora/%E4%B8%AA%E4%BA%BA%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F-03%20%E5%AD%A6%E4%BC%9A%E9%98%85%E8%AF%BB.assets/c7d1f1d614100ccdd4e03137d8f046d6.png)
+![c7d1f1d614100ccdd4e03137d8f046d6.png](https://ws4.sinaimg.cn/large/006tNc79ly1g25zigsbvwj30yg0mr4os.jpg)
 
 提炼关键词
 
 随着关键词句的增多，试着将它们连接起来，逐渐弄清其中的逻辑关系。
 
-![7ecdca42ae564157b6dd648367d5d106.png](../../../Library/Mobile%20Documents/com~apple~CloudDocs/Typora/%E4%B8%AA%E4%BA%BA%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F-03%20%E5%AD%A6%E4%BC%9A%E9%98%85%E8%AF%BB.assets/7ecdca42ae564157b6dd648367d5d106.png)
+![7ecdca42ae564157b6dd648367d5d106.png](https://ws2.sinaimg.cn/large/006tNc79ly1g25zilysbmj30x80sshbc.jpg)
 
 连接关键词
 
@@ -166,7 +166,7 @@ Mobi/awz3 → Kindle
 
 在 Mac 或 iOS 的 Mindnode 中，将思维导图导出为 Freemind 文稿（*.mm 格式）
 
-![97632120e8ffb7e49ccd923344c82474.png](../../../Library/Mobile%20Documents/com~apple~CloudDocs/Typora/%E4%B8%AA%E4%BA%BA%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F-03%20%E5%AD%A6%E4%BC%9A%E9%98%85%E8%AF%BB.assets/97632120e8ffb7e49ccd923344c82474.png)
+![97632120e8ffb7e49ccd923344c82474.png](https://ws4.sinaimg.cn/large/006tNc79ly1g25ziq47c2j30ou0m8q6b.jpg)
 
 导出为通用的.mm格式
 
@@ -174,7 +174,7 @@ Mobi/awz3 → Kindle
 
 打开收到的 *.mm 格式文件即可尽情发散思维，Handoff 掉剩下的内容。
 
-![f263dd0c4de9665dd441e49c2eb06ebf.png](../../../Library/Mobile%20Documents/com~apple~CloudDocs/Typora/%E4%B8%AA%E4%BA%BA%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F-03%20%E5%AD%A6%E4%BC%9A%E9%98%85%E8%AF%BB.assets/f263dd0c4de9665dd441e49c2eb06ebf.png)
+![f263dd0c4de9665dd441e49c2eb06ebf.png](https://ws4.sinaimg.cn/large/006tNc79ly1g25zist7vsj30jq0n0qag.jpg)
 
 Freemind
 
