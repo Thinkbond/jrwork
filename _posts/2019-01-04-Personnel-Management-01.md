@@ -3,7 +3,7 @@ layout: post
 title:  个人管理-01-基础篇
 tags:   Personnel Management
 date:   2019-01-04 19:42:35 +0800
-categories: [Personnel Management] 
+categories: [个人管理] 
 ---
 一个人，具备独立意志，并能坚持按「原则」处事，从而实现有效的自我管理。
 
