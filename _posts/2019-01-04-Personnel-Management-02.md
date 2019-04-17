@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  个人管理-01-人际关系
+title:  个人管理-02-人际关系
 tags:   Personnel Management
 date:   2019-01-04 19:42:35 +0800
 categories: [个人管理] 
