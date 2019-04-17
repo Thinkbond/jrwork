@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “个人管理-01-基础篇"
+title:  个人管理-01-基础篇
 tags:   Personnel Management
 date:   2019-01-04 19:42:35 +0800
 categories: [Personnel Management] 
