@@ -42,7 +42,7 @@ a, button.submit {
 }
 
 a:link {color:rgb(7, 72, 133);}    /* 未被访问的链接 */
-a:visited {color:rgb(19, 2, 49);} /* 已被访问的链接 */
+a:visited {color:rgb(31, 0, 83);} /* 已被访问的链接 */
 
 a:hover, a:active {
     color: rgb(240, 0, 0);
