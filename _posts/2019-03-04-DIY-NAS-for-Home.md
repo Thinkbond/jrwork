@@ -5,6 +5,9 @@ tags:   NAS 数据管理 DIY
 date:   2019-03-4 22:25:35 +0800
 categories: [数字生活] 
 ---
+
+![DIY「NAS」，低成本打造家庭数据管理系统](https://ws3.sinaimg.cn/large/006tNc79ly1g26yldz9irj30zk0hs42j.jpg)
+
 > 看到标题，估计你会认为这是又一篇黑*晖文，nonono，本文所述的「低成本」，不仅仅是硬件购入成本低，搭建难度也相对较低。
 
 ## 1 写在前面
