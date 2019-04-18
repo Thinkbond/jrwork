@@ -41,11 +41,11 @@ a, button.submit {
     transition: all .1s ease-in;
 }
 
-a:link {color:rgb(0, 132, 255);}    /* 未被访问的链接 */
+a:link {color:rgb(7, 72, 133);}    /* 未被访问的链接 */
 a:visited {color:rgb(19, 2, 49);} /* 已被访问的链接 */
 
 a:hover, a:active {
-    color: #444;
+    color: rgb(83, 2, 2);
 }
 
 a:focus {
