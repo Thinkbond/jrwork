@@ -1,6 +1,10 @@
 <div class="widget">
     <div class="widget-title"><i class="icon-star"> 推荐文章</i></div>
     <ul class="post-list">
-        <li class="post-list-item"><a class="post-list-link" href="https://jrwork.cn">None</a></li>
+        <li class="post-list-item"><a class="post-list-link" href="https://jrwork.cn/2019/03/28/Personnel-Management-05/">个人管理-05-任务管理</a></li>
+    </ul>
+    <ul class="post-list">
+        <li class="post-list-item"><a class="post-list-link" href="https://jrwork.cn/2019/03/04/DIY-NAS-for-Home/">DIY「NAS」，低成本打造家庭数据管理系统
+</a></li>
     </ul>
 </div>
