@@ -16,7 +16,7 @@ categories: [数字生活]
 - audirvana 和 amarra 高昂的售价让人提不起兴趣；
 - QQ 音乐这种兼职选手总感觉没有那么纯粹（要求还真多……，不就是听首歌嘛！）
 
-直到为了下载 DSF 解码插件，打开 Foobar2000 官网才发现，原来它推出了 macOS版（beta），喜出望外！
+直到为了下载 DSF 解码插件，打开 [Foobar2000 官网](http://www.foobar2000.org/mac)才发现，原来它推出了 macOS版（beta），喜出望外！
 
 来来来，请欣赏比 Windows 版更加简洁(陋)的界面(最起码支持暗黑模式)。
 
@@ -61,4 +61,6 @@ foobar2000 精髓所在，可惜目前在 Mac 里，相对比较实用的也就 
 #### 结束语
 
 foobar2000 终于迈出了一小步，对于它的忠实粉丝来说，是实实在在的一大步。希望它快快成长，最终像 Windows 版一样强大。
+
+题图  by [Mohammad Metri](https://unsplash.com/photos/1oKxSKSOowE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/music?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
