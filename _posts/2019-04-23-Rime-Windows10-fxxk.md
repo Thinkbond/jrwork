@@ -19,21 +19,19 @@ categories: [数字生活]
 
 首先在开始菜单中找到小狼毫的【输入法设定】工具
 
-![3](Rime 升级后变的「高冷异常」.assets/3.PNG)
+![3](https://ws4.sinaimg.cn/large/006tNc79ly1g2c7ugtm44j30d809ct8q.jpg)
 
 点击下部的“获取更多输入方案”，会看到如下命令行界面：
 
-![2](Rime 升级后变的「高冷异常」.assets/2.PNG)
+![2](https://ws4.sinaimg.cn/large/006tNc79ly1g2c7uxutsbj30ht02zmx0.jpg)
 
 注意：想使用双拼输入法的话，就输入`double-pinyin`，而不是`double_pinyin` 抑或`double_py` 甚至`double_pinyin_flypy`…… 
 
 当你想要质疑，小狼毫输入法为何越更新越「倒退」的时候，作者早回答了：
 
-![1](Rime 升级后变的「高冷异常」.assets/1.PNG)
+![3](https://ws2.sinaimg.cn/large/006tNc79ly1g2c7vbxb1wj30d809ct8q.jpg)
 
 只能表示无语，不过话说回来，不能用着别人的东西还嫌弃不是？毕竟这是一次性操作。
-
-
 
 ##### 定制顿号
 
