@@ -29,7 +29,7 @@ categories: [数字生活]
 
 当你想要质疑，小狼毫输入法为何越更新越「倒退」的时候，作者早回答了：
 
-![3](https://ws2.sinaimg.cn/large/006tNc79ly1g2c7vbxb1wj30d809ct8q.jpg)
+![WechatIMG68](https://ws3.sinaimg.cn/large/006tNc79ly1g2c84elshdj30jj044aa1.jpg)
 
 只能表示无语，不过话说回来，不能用着别人的东西还嫌弃不是？毕竟这是一次性操作。
 
