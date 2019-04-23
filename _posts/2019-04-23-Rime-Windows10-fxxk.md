@@ -2,7 +2,7 @@
 layout: post
 title:  如何为「高冷异常」的 Rime 添加双拼方案
 tags:  双拼 输入法
-date:   2019-04-23 6:45:35 +0800
+date:   2019-04-23 6:45:35 GMT+0800
 categories: [数字生活] 
 
 ---
