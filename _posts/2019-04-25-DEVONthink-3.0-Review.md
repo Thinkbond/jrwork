@@ -1,3 +1,11 @@
+---
+layout: post
+title:  「加量又加价」老牌知识库软件 DEVONthink 终于升级 3.0
+tags:   DEVONthink Review
+date:   2019-04-25 21:45:35 
+categories: [数字生活] 
+---
+
 ![屏幕快照 2019-04-25 17.43.01](https://ws2.sinaimg.cn/large/006tNc79ly1g2f73qpn2bj31ky0u0x6p.jpg)
 
 # 「加量又加价」老牌知识库软件 DEVONthink 终于升级 3.0
