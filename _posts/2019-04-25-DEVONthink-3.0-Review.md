@@ -8,8 +8,6 @@ categories: [数字生活]
 
 ![屏幕快照 2019-04-25 17.43.01](https://ws3.sinaimg.cn/large/006tNc79ly1g2g3xvn403j31ky0u0x6p.jpg)
 
-# 「加量又加价」老牌知识库软件 DEVONthink 终于升级 3.0
-
 ## 简介
 [DEVONthink](https://www.devontechnologies.com) 是由一家来自德国的老牌软件开发商发布的「知识管理」app，运行于 macOS 和 iOS 平台。官方自己定位为「Information management reinvented」，全方位（中文环境下略有遗憾）帮助你实现知识管理。
 
