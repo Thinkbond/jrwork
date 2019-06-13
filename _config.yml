@@ -57,6 +57,8 @@ links: # 友情链接
 
 #  - title:
 #    url: http://jekyllcn.com/
+  - title: 欢迎订阅本站 RSS
+    url: https://jrwork.cn/feed.xml
   - title: Jekyll blog system
     url: http://jekyllcn.com/
 
