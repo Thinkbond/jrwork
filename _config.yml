@@ -63,7 +63,7 @@ links: # 友情链接
     url: http://jekyllcn.com/
 
 
-valine:
+# valine:
   enable: false
   app_id:  NihcR9g1oYP0RyK0vwwYPoLt-gzGzoHsz
   app_key: GyA3LepxcjrEKlXXUipLL6oz
