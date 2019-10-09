@@ -2,14 +2,60 @@
 layout: base
 ---
 
-<!-- 显示每篇博客阅读量, id 将作为查询条件 
+<!--valine comment function-->
+<script src="https://cdnjs.loli.net/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+<script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+
+
+{% for post in paginator.posts %}
+<div class="post">
+
+    <h2 class="post-title">
+        <a href="{{ post.url | prepend: site.baseurl }}">
+            {% if post.title %}
+            {{ post.title }}
+            {% else %}
+            {{ site.page_no_title }}
+            {% endif %}
+        </a>
+    </h2>
+
+    <div class="post-meta">
+        <span>
+        <i class="icon-post-date"> {{ post.date | date: "%Y年%m月%d日" }}
+
+        </i>
+            <!-- 显示每篇博客阅读量, id 将作为查询条件 
                 <span id={{post.url}} class="leancloud-visitors" data-flag-title={{post.title}}>
                     <span class="post-meta-divider">|</span>
                     <span class="post-meta-item-text">阅读量 </span>
                     <span class="leancloud-visitors-count"></span>
                 </span>-->
+            <script>
+                var notify = '{{site.valine.notify}}' === true;
+                var verify = '{{site.valine.verify}}.>' === true;
+                var visitor = '{{site.valine.visitor}}.>' === true;
+
+                new Valine({
+                    av: AV,
+                    el: '#valine_comment',
+                    notify: notify,
+                    verify: verify,
+                    // smiles_url: '/smiles',
+                    visitor: true,
+                    app_id: '{{site.valine.app_id}}',
+                    app_key: '{{site.valine.app_key}}',
+                    placeholder: '{{site.valine.placeholder}}',
+                    avatar: '{{site.valine.avatar}}',
+                });
+            </script>
+        </span>
+
+    </div>
 
     <div class="post-content">{{ post.content | strip_html | truncate:160 }}</div>
+
     <p class="readmore"><a href="{{ post.url | prepend: site.baseurl }}">阅读更多</a></p>
 
 </div>

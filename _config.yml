@@ -61,3 +61,16 @@ links: # 友情链接
     url: https://jrwork.cn/feed.xml
   - title: Jekyll blog system
     url: http://jekyllcn.com/
+
+
+valine:
+  enable: true
+  app_id:  NihcR9g1oYP0RyK0vwwYPoLt-gzGzoHsz
+  app_key: GyA3LepxcjrEKlXXUipLL6oz
+  notify: false # mail notifier , https://github.com/xCss/Valine/wiki
+  verify: false # Verification code
+  visitor: true
+  avatar: retro
+  placeholder: Be nice～ 
+  guest_info: nick,mail,link
+  pageSize: 10
