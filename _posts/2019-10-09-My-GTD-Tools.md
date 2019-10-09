@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  分享正在使用的任务管理工具集
-tags:   GTD
+tags:   GTD 任务管理
 date:   2019-10-09 19:36:00
-categories: [任务管理] 
+categories: [个人管理] 
 ---
 
 ## 分享正在使用的任务管理工具集
