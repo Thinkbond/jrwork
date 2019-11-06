@@ -17,3 +17,13 @@ categories: [数字生活]
 - 不推荐 Webachive，空间占用大，编辑不方便，额外元素较多。
 
 - 无法正常抓取网页时，推荐试试 PDF。
+
+附官方对 RTF 和 Formatted Note的描述：
+
+Rich text and formatted notes
+You can view and edit rich text documents (RTF and RTFD) and formatted notes.
+
+RTF and RTFD: Rich text documents use the proprietary RTF format with good but not 100% compatibility to e.g. DEVONthink for Mac. DEVONthink To Go also supports rich text documents with attached images (RTFD) but as read-only.
+
+Formatted notes: Based on HTML, formatted notes are 100% compatible to DEVONthink for Mac and can also displayed using any web browser on any platform. Images that you add are embedded. Formatted notes are fully self-contained.
+
