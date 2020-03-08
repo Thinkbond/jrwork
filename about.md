@@ -12,12 +12,12 @@ group: "navigation"
 
 #### 社交账号
 
-| 平台       | 账号                                                 | 备注                                                         |
-| ---------- | ---------------------------------------------------- | ------------------------------------------------------------ |
-| 知乎       | [Thinkbond](https://www.zhihu.com/people/thinkbond/) | 知乎专栏：[匠人造物](https://zhuanlan.zhihu.com/jrwork)      |
-| 微博       | [匠人造物](https://weibo.com/thinkbond)              | 记录生活成长点滴，碎片信息                                   |
-| 微信公众号 | 匠人造物（jrworkcn）                                 | （目前正在建设中，多谢鼓励：））请用微信扫下图二维码         |
-| 知识星球   | 传习易                                               | （尚未正式启用，摸索中，慎入）链接：https://t.zsxq.com/MBa2nAU |
+| 平台       | 账号                                                 | 备注                                                    |
+| ---------- | ---------------------------------------------------- | ------------------------------------------------------- |
+| 知乎       | [Thinkbond](https://www.zhihu.com/people/thinkbond/) | 知乎专栏：[匠人造物](https://zhuanlan.zhihu.com/jrwork) |
+| 微博       | [匠人造物](https://weibo.com/thinkbond)              | 记录生活成长点滴，碎片信息                              |
+| 微信公众号 | 匠人造物（jrworkcn）                                 | （目前正在建设中，多谢鼓励：））请用微信扫下图二维码    |
+| 知识星球   | [传习易](https://t.zsxq.com/MBa2nAU)                 | 尚未正式启用，摸索中，慎入                              |
 
 <img src="../assets/imgs/wechat_official_account.png" width="600px" />
 
